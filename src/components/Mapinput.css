@@ -1,0 +1,21 @@
+.ag-canvas_svg{
+   height: 38rem;
+}
+
+.subcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.inputvalue{
+    width: 50rem;
+    height: 2rem;
+ font-size: larger;
+
+
+}
+
+.btnn{
+    width: auto;
+    height: 2.2rem;
+}
